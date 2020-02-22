@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMDELIVERY</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message for Solution Delivery</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMDELIVERY</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMDELIVERY</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>There are no &amp;. Update table &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMDELIVERY</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>There is not list &amp;. Update table &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMDELIVERY</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Calculation has not generated results</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMDELIVERY</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Fill up selection field</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMDELIVERY</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Invalid Location/Store</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMDELIVERY</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Select a valid configuration table</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
