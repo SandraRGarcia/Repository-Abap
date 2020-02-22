@@ -1,6 +1,6 @@
 *---------------------------------------------------------------------*
 *    view related data declarations
-*   generation date: 21.02.2020 at 18:40:21
+*   generation date: 22.02.2020 at 04:48:13
 *   view maintenance generator version: #001407#
 *---------------------------------------------------------------------*
 *...processing: ZTCAPACITY......................................*

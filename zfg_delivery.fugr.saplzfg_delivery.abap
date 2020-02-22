@@ -2,8 +2,8 @@
 *******************************************************************
 *   System-defined Include-files.                                 *
 *******************************************************************
-  INCLUDE LZFG_SANDRATOP.                    " Global Data
-  INCLUDE LZFG_SANDRAUXX.                    " Function Modules
+  INCLUDE LZFG_DELIVERYTOP.                    " Global Data
+  INCLUDE LZFG_DELIVERYUXX.                    " Function Modules
 
 *******************************************************************
 *   User-defined Include-files (if necessary).                    *
@@ -14,8 +14,10 @@
 * INCLUDE LZFG_SANDRAE...                    " Events
 * INCLUDE LZFG_SANDRAP...                    " Local class implement.
 * INCLUDE LZFG_SANDRAT99.                    " ABAP Unit tests
-  INCLUDE LZFG_SANDRAF00                          . " subprograms
-  INCLUDE LZFG_SANDRAI00                          . " PAI modules
+INCLUDE LZFG_DELIVERYF00.
+*  INCLUDE LZFG_SANDRAF00                          . " subprograms
+INCLUDE LZFG_DELIVERYI00.
+*  INCLUDE LZFG_SANDRAI00                          . " PAI modules
   INCLUDE LSVIMFXX                                . " subprograms
   INCLUDE LSVIMOXX                                . " PBO modules
   INCLUDE LSVIMIXX                                . " PAI modules

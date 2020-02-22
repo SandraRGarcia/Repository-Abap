@@ -3,7 +3,8 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>LZFG_SANDRAT00</NAME>
+    <NAME>LZFG_DELIVERYF00</NAME>
+    <SQLX>X</SQLX>
     <SUBC>I</SUBC>
     <RLOAD>E</RLOAD>
    </PROGDIR>
